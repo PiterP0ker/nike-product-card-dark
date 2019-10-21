@@ -79,8 +79,7 @@ select:focus {
 }
 
 .ba-nike-card__img {
-	height: 100%;
-	object-fit: cover;
+	width: 50%;
 }
 
 .ba-card-form__title {
@@ -99,6 +98,7 @@ select:focus {
 	display: flex;
 	flex-direction: column;
 	margin-left: 82px;
+	width: 50%;
 }
 
 .ba-card-select__options {
